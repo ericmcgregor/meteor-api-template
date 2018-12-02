@@ -1,0 +1,13 @@
+{
+  "name": "meteor_api_template",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.1.5",
+    "lodash": "^4.17.11",
+    "meteor-node-stubs": "^0.4.1",
+    "simpl-schema": "^1.5.3"
+  }
+}
